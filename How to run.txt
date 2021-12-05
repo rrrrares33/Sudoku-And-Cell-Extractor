@@ -1,0 +1,20 @@
+1. Libraries required to run the project:
+
+os
+cv2
+imutils == 0.5.4
+numpy == 1.21.0
+matplotlib == 3.4.3
+scikit-learn == 0.24.2
+
+2. How to run each task and where to look for the output:
+
+Task 1:
+Script: task1.ipynb
+Function: Change in the script code 'path_to_images' variable so that it points to the folder where the test images are. After changing this, just run the whole script.
+Output: Output files will be placed in this file: './fisiere_solutie/Gherasim_Rares_343/clasic/', like in the provided example.
+
+Task 2:
+Script: task2.ipynb
+Function: Change in the script code 'path_to_images' variable so that it points to the folder where the test images are. After changing this, just run the whole script.
+Output: Output files will be placed in this file: './fisiere_solutie/Gherasim_Rares_343/clasic/', like in the provided example.
